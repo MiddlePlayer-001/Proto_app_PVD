@@ -1,0 +1,28 @@
+# PDV System - Dependências de Produção
+# Sistema de Ponto de Venda em Python com Interface Flet
+# Compatível com Python 3.8+
+
+# Framework UI - Interface Desktop Multiplataforma
+flet==0.23.0
+flet-core==0.23.0
+flet-runtime==0.23.0
+
+# ORM - Banco de Dados SQLite
+peewee==3.17.0
+
+# Geração de PDFs para Recibos/Cupons Térmicos
+reportlab==4.0.7
+
+# Carregamento de Variáveis de Ambiente
+python-dotenv==1.2.1
+
+# Notas de Instalação:
+# - Windows: pip install -r requirements.txt
+# - Linux/Mac: pip3 install -r requirements.txt
+# - Ambiente Virtual: python -m venv venv && venv\Scripts\activate (Windows)
+#   ou: python3 -m venv venv && source venv/bin/activate (Linux/Mac)
+#
+# Após instalar, execute:
+# - python main.py          (Iniciar aplicação)
+# - python validar_sistema.py  (Validar sistema)
+# - python exemplos_dados.py   (Popular dados de exemplo)

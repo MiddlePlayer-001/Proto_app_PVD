@@ -1,0 +1,43 @@
+07/02/2026 09:11:36 - pdv_system - INFO - Teste de info
+07/02/2026 09:11:36 - pdv_system - ERROR - Teste de erro
+07/02/2026 09:20:11 - pdv_system - INFO - Teste info
+07/02/2026 09:20:11 - pdv_system - ERROR - Teste erro
+07/02/2026 09:20:11 - pdv_system - WARNING - Teste aviso
+07/02/2026 09:20:11 - pdv_system - DEBUG - Teste debug
+07/02/2026 09:20:11 - pdv_system - INFO - [VENDA #1] Finalizada
+07/02/2026 09:20:11 - pdv_system - DEBUG - [BD] INSERT em produtos
+07/02/2026 09:29:58 - pdv_system - INFO - Test
+07/02/2026 09:29:58 - pdv_system - ERROR - Test
+07/02/2026 09:29:58 - pdv_system - WARNING - Test
+07/02/2026 09:29:58 - pdv_system - DEBUG - Test
+07/02/2026 09:29:58 - pdv_system - INFO - [VENDA #1] Finalizada
+07/02/2026 09:29:58 - pdv_system - DEBUG - [BD] INSERT em produtos
+07/02/2026 10:06:07 - pdv_system - INFO - ======================================================================
+07/02/2026 10:06:07 - pdv_system - INFO - INICIANDO PDV SYSTEM v1.0.0
+07/02/2026 10:06:07 - pdv_system - INFO - ======================================================================
+07/02/2026 10:06:07 - pdv_system - INFO - Banco de dados inicializado com sucesso
+07/02/2026 10:06:10 - pdv_system - INFO - Iniciando interface Flet
+07/02/2026 10:09:01 - pdv_system - INFO - ======================================================================
+07/02/2026 10:09:01 - pdv_system - INFO - INICIANDO PDV SYSTEM v1.0.0
+07/02/2026 10:09:01 - pdv_system - INFO - ======================================================================
+07/02/2026 10:09:01 - pdv_system - INFO - Banco de dados inicializado com sucesso
+07/02/2026 10:09:03 - pdv_system - INFO - Iniciando interface Flet
+07/02/2026 10:09:53 - pdv_system - INFO - Encerrando PDV SYSTEM
+07/02/2026 10:09:53 - pdv_system - INFO - Encerrando PDV SYSTEM
+07/02/2026 10:15:09 - pdv_system - INFO - ======================================================================
+07/02/2026 10:15:09 - pdv_system - INFO - INICIANDO PDV SYSTEM v1.0.0
+07/02/2026 10:15:09 - pdv_system - INFO - ======================================================================
+07/02/2026 10:15:09 - pdv_system - INFO - Banco de dados inicializado com sucesso
+07/02/2026 10:15:12 - pdv_system - INFO - Iniciando interface Flet
+07/02/2026 10:15:55 - pdv_system - INFO - Encerrando PDV SYSTEM
+07/02/2026 10:17:24 - pdv_system - INFO - ======================================================================
+07/02/2026 10:17:24 - pdv_system - INFO - INICIANDO PDV SYSTEM v1.0.0
+07/02/2026 10:17:24 - pdv_system - INFO - ======================================================================
+07/02/2026 10:17:24 - pdv_system - INFO - Banco de dados inicializado com sucesso
+07/02/2026 10:17:25 - pdv_system - INFO - Iniciando interface Flet
+07/02/2026 10:19:29 - pdv_system - INFO - ======================================================================
+07/02/2026 10:19:29 - pdv_system - INFO - INICIANDO PDV SYSTEM v1.0.0
+07/02/2026 10:19:29 - pdv_system - INFO - ======================================================================
+07/02/2026 10:19:29 - pdv_system - INFO - Banco de dados inicializado com sucesso
+07/02/2026 10:19:31 - pdv_system - INFO - Iniciando interface Flet
+07/02/2026 10:19:33 - pdv_system - INFO - Mudando rota: /
